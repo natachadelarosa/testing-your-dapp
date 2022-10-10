@@ -46,7 +46,7 @@ Finally, set environment variables to use this local connection in `.env` in the
 # modify env variables
 cp .env.dist .env
 
-npm start
+npm run dev
 ```
 
 This will start the frontend development server under
