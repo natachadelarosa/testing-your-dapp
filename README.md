@@ -29,7 +29,8 @@ npm run test # To run your tests
 npm run node # To run the local node
 
 # In a separate terminal window
-npm run deploy-local #make sure to copy the contract address to replace it in the frontend/pages/components/panel.jsx
+npm run deploy-local 
+#make sure to copy the contract address to replace it in the frontend/pages/components/panel.jsx
 ```
 
 
